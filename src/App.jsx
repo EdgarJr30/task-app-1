@@ -8,8 +8,8 @@ function App() {
       <LogoApp />
 
       <div className="task-list">
-        <h1>Mis Tareas</h1>
-        <p>Touch on your task to mark it as completed</p>
+        <h1>Mis Tareas.</h1>
+        <p>Touch on your task to mark it as completed.</p>
         <TaskList />
       </div>
     </div>
