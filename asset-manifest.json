@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/.github.io/task-app-1/static/css/main.b2f6ac55.css",
-    "main.js": "/.github.io/task-app-1/static/js/main.d8765de0.js",
-    "index.html": "/.github.io/task-app-1/index.html",
-    "main.b2f6ac55.css.map": "/.github.io/task-app-1/static/css/main.b2f6ac55.css.map",
-    "main.d8765de0.js.map": "/.github.io/task-app-1/static/js/main.d8765de0.js.map"
+    "main.css": "/task-app-1/static/css/main.b2f6ac55.css",
+    "main.js": "/task-app-1/static/js/main.d8765de0.js",
+    "index.html": "/task-app-1/index.html",
+    "main.b2f6ac55.css.map": "/task-app-1/static/css/main.b2f6ac55.css.map",
+    "main.d8765de0.js.map": "/task-app-1/static/js/main.d8765de0.js.map"
   },
   "entrypoints": [
     "static/css/main.b2f6ac55.css",
